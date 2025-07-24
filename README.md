@@ -75,23 +75,6 @@ This project is not just academic – it's **impactful**, **industry-connected**
 
 ---
 
-## ⚙️ SETUP INSTRUCTIONS
-
-
-# STEP 1: Open NEWS_op.ipynb in Google Colab
-# STEP 2: Run all cells – this will generate multi_source_event_synthesis.json in your Google Drive
-
-# STEP 3: Upload the provided index.html to the same Google Drive folder
-
-# STEP 4: Right-click on index.html → "Open with" → "Browser"
-# ✅ Done! You now have a beautiful, AI-powered digital newspaper live on your Drive
-
-# 📰 AI News Synthesizer
-
-A beautiful, AI-powered digital newspaper that merges multiple news sources, generates smart summaries, and runs entirely on the frontend — no backend required!
-
----
-
 ## ✅ SETUP STEPS
 
 1. **Open** `NEWS_op.ipynb` in Google Colab  
