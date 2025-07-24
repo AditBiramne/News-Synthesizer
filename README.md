@@ -89,7 +89,7 @@ This project is not just academic – it's **impactful**, **industry-connected**
 # ❗ NOTE:
 # JSON and HTML must be in the same Google Drive location.
 # Path is hardcoded in JavaScript.
-'''bash
+```bash
 
 # **✨ FEATURES**
 # ------------------------------------
