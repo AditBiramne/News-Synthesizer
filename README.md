@@ -60,7 +60,7 @@ This project is not just academic – it's **impactful**, **industry-connected**
 
 ### 🔁 Backend (Colab Notebook):
 - Reads multiple newspaper articles
-- Uses BERT-like models to summarize and synthesize events
+- Uses BART-like models to summarize and synthesize events
 - Filters and structures data into JSON format
 - Automatically saves the output file to **Google Drive**
 
