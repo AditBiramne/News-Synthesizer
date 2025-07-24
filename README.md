@@ -4,9 +4,11 @@
 
 ## ❓ PROBLEM STATEMENT
 
-In an age where **misinformation and fake news flood the internet** every single minute, it's becoming incredibly difficult to distinguish between truth and manipulation.
-
+In an age where **misinformation and fake news flood the internet** every single minute, it's becoming incredibly difficult to distinguish between truth and manipulation.  
 People no longer know what to trust... 🧠💣
+
+A recent example that sparked our motivation was the **Operation Sindoor** coverage.  
+🪖 While monitoring the internet during this event, we noticed **a surge in fake news, clickbait articles, and politically twisted narratives** — especially across social media and unverified blogs.
 
 ✅ **The only consistently reliable news?** – Traditional, editorially-reviewed **physical newspapers**.
 
