@@ -77,7 +77,7 @@ This project is not just academic – it's **impactful**, **industry-connected**
 
 ## ⚙️ SETUP INSTRUCTIONS
 
-```bash
+
 # STEP 1: Open NEWS_op.ipynb in Google Colab
 # STEP 2: Run all cells – this will generate multi_source_event_synthesis.json in your Google Drive
 
