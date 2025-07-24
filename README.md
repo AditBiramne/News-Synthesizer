@@ -85,12 +85,11 @@ This project is not just academic – it's **impactful**, **industry-connected**
 
 # STEP 4: Right-click on index.html → "Open with" → "Browser"
 # ✅ Done! You now have a beautiful, AI-powered digital newspaper live on your Drive
-# 📁 AI-News-Synthesizer/
-# ====================================
 
 # ❗ NOTE:
 # JSON and HTML must be in the same Google Drive location.
 # Path is hardcoded in JavaScript.
+'''bash
 
 # **✨ FEATURES**
 # ------------------------------------
