@@ -86,44 +86,65 @@ This project is not just academic – it's **impactful**, **industry-connected**
 # STEP 4: Right-click on index.html → "Open with" → "Browser"
 # ✅ Done! You now have a beautiful, AI-powered digital newspaper live on your Drive
 
-# ❗ NOTE:
-# JSON and HTML must be in the same Google Drive location.
-# Path is hardcoded in JavaScript.
+# 📰 AI News Synthesizer
+
+A beautiful, AI-powered digital newspaper that merges multiple news sources, generates smart summaries, and runs entirely on the frontend — no backend required!
+
+---
+
+## ✅ SETUP STEPS
+
+1. **Open** `NEWS_op.ipynb` in Google Colab  
+2. **Run all cells** – this will generate `multi_source_event_synthesis.json` in your Google Drive  
+3. **Upload** the provided `index.html` to the **same Google Drive folder**  
+4. **Right-click** on `index.html` → _Open with_ → _Browser_  
+5. ✅ **Done!** You now have an interactive, clutter-free news synthesis tool running live!
+
+> ❗ **NOTE:**  
+> JSON and HTML **must** be in the same Google Drive location.  
+> Path is **hardcoded in JavaScript** inside `index.html`.
+
+---
+
+## ✨ FEATURES
+
+- 📰 Multi-source news synthesis for a broader perspective  
+- ✂️ AI-generated summaries that retain context and eliminate fluff  
+- 🔗 Clickable source tags to validate or read full articles  
+- 🌙 Dark-mode UI with stylish animations and interactive cards  
+- 🧭 Entirely frontend-based – no server setup needed!
+
+---
+
+## 🔮 FUTURE SCOPE
+
+We’ve built a strong foundation – and the possibilities ahead are 🔥
+
+**Planned Features:**
+- ⏱️ Real-time scraping using APIs like NewsAPI or RSS feeds  
+- 🛡️ IOC brand protection module (Negative news detector)  
+- 🔎 Search functionality – filter by keyword or topic  
+- 🌐 Language translation support for multi-lingual content  
+- 📲 PWA version – installable, offline-friendly version for mobile  
+- 🧠 Topic clustering using semantic similarity (BERT/Universal Sentence Encoder)  
+- 🧾 Admin panel to approve/reject articles or view insights  
+
+---
+
+## 🎯 IDEAL FOR
+
+- 📚 Students building strong AI + Web integration projects  
+- 💼 Interns and freshers showcasing real-world industry collaboration  
+- 🧪 Developers experimenting with NLP and summarization  
+- 📰 Media companies or researchers looking to automate editorial synthesis  
+
+---
+
+## 🗂️ FILE STRUCTURE
+
 ```bash
-
-# **✨ FEATURES**
-# ------------------------------------
-# 📰 Multi-source news synthesis for a broader perspective
-# ✂️ AI-generated summaries that retain context and eliminate fluff
-# 🔗 Clickable source tags to validate or read full articles
-# 🌙 Dark-mode UI with stylish animations and interactive cards
-# 🧭 Entirely frontend-based – no server setup needed!
-
-# **🔮 FUTURE SCOPE**
-# ------------------------------------
-# We’ve built a strong foundation – and the possibilities ahead are 🔥
-
-# Planned Features:
-# ⏱️ Real-time scraping using APIs like NewsAPI or RSS feeds  
-# 🛡️ IOC brand protection module (Negative news detector)  
-# 🔎 Search functionality – filter by keyword or topic  
-# 🌐 Language translation support for multi-lingual content  
-# 📲 PWA version – installable, offline-friendly version for mobile  
-# 🧠 Topic clustering using semantic similarity (BERT/Universal Sentence Encoder)  
-# 🧾 Admin panel to approve/reject articles or view insights  
-
-# **🎯 IDEAL FOR**
-# ------------------------------------
-# 📚 Students building strong AI + Web integration projects  
-# 💼 Interns and freshers showcasing real-world industry collaboration  
-# 🧪 Developers experimenting with NLP and summarization  
-# 📰 Media companies or researchers looking to automate editorial synthesis  
-
-# **🗂️ FILE STRUCTURE**
-# ------------------------------------
 AI-News-Synthesizer/
 ├── NEWS_op.ipynb                      # 🔍 Jupyter Notebook (Run in Google Colab)
 ├── index.html                         # 🖥️ Frontend UI (Open via Google Drive)
 └── multi_source_event_synthesis.json # 📦 Auto-generated summary JSON output
-
 
